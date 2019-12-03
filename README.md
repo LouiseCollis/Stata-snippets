@@ -1,0 +1,2 @@
+# Stata-snippets
+example code
